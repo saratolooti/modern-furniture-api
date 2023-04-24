@@ -1,0 +1,782 @@
+{
+  "furniture": [
+    {
+      "id": 0,
+      "name": "Armchair Jimi",
+      "color": ["#B79674"],
+      "selected_color": 0,
+      "price": 126.88,
+      "rate": 3,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "polyester-fabric",
+      "type": "armchair",
+      "image": [
+        {
+          "1": "img/Abondance-E.Gallina.png",
+          "2": "img/Abondance-E.Gallina1.png",
+          "3": "img/Abondance-E.Gallina2.png",
+          "size": "img/Abondance-E.Gallina-size.png"
+        }
+      ],
+      "general_description": "An armchair like the big one for the kids... sober and simple design. Ideal in the children's room from 6-8 years!",
+      "feature": [
+        "For children from 6-8 years",
+        "Structure in steel and plywood",
+        "Polyurethane foam padding 25 kg/m3 (back and armrests) and 33 kg/m3 (seat)",
+        "Upholstered in 100% polyester fabric",
+        "Legs in solid beech wood with oak tint, finished with nitrocellulose varnish"
+      ],
+      "dimensions": {
+        "width": 49,
+        "height": 72,
+        "depth": 56.5
+      },
+      "seat_dimensions": {
+        "width": 39,
+        "height": 39,
+        "depth": 43
+      }
+    },
+    {
+      "id": 1,
+      "name": "Armchair Jimi",
+      "color": ["#575F48", "#B1C3C6", "#7E868C"],
+      "selected_color": 0,
+      "price": 248.86,
+      "rate": 4.1,
+      "inCart": 0,
+      "catalog": "living-room",
+      "material": "polyester-fabric",
+      "type": "armchair",
+      "image": [
+        {
+          "1": "img/Armchair-Jimi.png",
+          "2": "img/Armchair-Jimi1.png",
+          "3": "img/Armchair-Jimi2.png",
+          "size": "img/Armchair-Jimi-size.png"
+        },
+        {
+          "1": "img/Armchair-Jimi-blue.png",
+          "2": "img/Armchair-Jimi-blue1.png",
+          "3": "img/Armchair-Jimi-blue2.png",
+          "size": "img/Armchair-Jimi-size.png"
+        },
+        {
+          "1": "img/Armchair-Jimi-gray.png",
+          "2": "img/Armchair-Jimi-gray1.png",
+          "3": "img/Armchair-Jimi-gray2.png",
+          "size": "img/Armchair-Jimi-size.png"
+        }
+      ],
+      "general_description": "Armchair with a neo-retro and modern style, legs in ash wood ! Remarkable comfort and style.",
+      "feature": [
+        "Legs in solid ash wood with nitrocellulose varnish",
+        "Upholstery 80% polyester, 20% linen with contrasting decorative seams on the width for the celadon, mustard yellow and grey",
+        "Upholstery 100% polyester contrasting decorative seams on the width for the almond green",
+        "Solid pine and plywood structure",
+        "Suspension by crossed elastic straps",
+        "Legs in solid ash wood with nitrocellulose varnish, height 27 cm"
+      ],
+      "dimensions": {
+        "width": 63,
+        "height": 73,
+        "depth": 77
+      },
+      "seat_dimensions": {
+        "width": 63,
+        "height": 43,
+        "depth": 51
+      }
+    },
+    {
+      "id": 2,
+      "name": "Table lamp Copita",
+      "color": ["#849682", "#CF9E81", "#3B3E3D", "#EAEAEA", "#4A8782"],
+      "selected_color": 0,
+      "price": 77.28,
+      "rate": 4.1,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "metal",
+      "type": "lamp",
+      "image": [
+        {
+          "1": "img/Copita.png",
+          "size": "img/Copita-size.png"
+        },
+        {
+          "1": "img/Copita-pink.png"
+        },
+        {
+          "1": "img/Copita-black.png"
+        },
+        {
+          "1": "img/Copita-white.png"
+        },
+        {
+          "1": "img/Copita-eucalyptus.png"
+        }
+      ],
+      "general_description": "A simple and modern design for the contemporary touch of your interior with the table lamp Copita.",
+      "feature": [
+        "Socket E14 for energy saving lamp 8W Max, (not included)",
+        "Compatible with lamps with energy value class : ABCDE",
+        "Lamp in metal covered with epoxy paint"
+      ],
+      "dimensions": {
+        "width": 15,
+        "height": 42,
+        "depth": 29
+      }
+    },
+    {
+      "id": 3,
+      "name": "Wall lamp Sunny",
+      "color": ["#7CA496"],
+      "selected_color": 0,
+      "price": 80.58,
+      "rate": 5,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "metal",
+      "type": "lamp",
+      "image": [
+        {
+          "1": "img/Sunny.png",
+          "2": "img/Sunny1.png",
+          "size": "img/sunny-size.png"
+        }
+      ],
+      "general_description": "A successful combination of metal and rattan for the Sunny wall lamp, a Scandinavian retro spirit that will cause a sensation in a room or a hallway",
+      "feature": [
+        "Structure in metal covered with white epoxy paint and decor in bleached rattan",
+        "Socket E27 for energy saving bulb of max. 15W, (not included)",
+        "Compatible with bulbs of energy class: A"
+      ],
+      "dimensions": {
+        "width": 16.5,
+        "height": 28,
+        "depth": 28
+      }
+    },
+    {
+      "id": 4,
+      "name": "Spherical armchair Jimi",
+      "color": ["#FFF"],
+      "selected_color": 0,
+      "price": 244.14,
+      "rate": 4,
+      "inCart": 0,
+      "catalog": "living-room",
+      "material": "metal",
+      "type": "armchair",
+      "image": [
+        {
+          "1": "img/Bolvormige-armchair.png",
+          "2": "img/Bolvormige-armchair1.png",
+          "3": "img/Bolvormige-armchair2.png",
+          "size": "img/Bolvormige-armchair-size.png"
+        }
+      ],
+      "general_description": "A very nice armchair: Beautiful ergonomic shape, ideal for the living -oom or bedroom, takes up little space.",
+      "feature": [
+        "Upholstery in bouclette fabric 100% polyester, sheep aspect",
+        "Seat structure in plywood and steel covered with bouclette fabric",
+        "Legs in solid beech wood finished with nitrocellulose varnish",
+        "Padding in polyether foam, seat density 25 kg/m³, armrests and backrest density 18 kg/m³"
+      ],
+      "dimensions": {
+        "width": 71,
+        "height": 73.8,
+        "depth": 58.5
+      },
+      "seat_dimensions": {
+        "width": 71,
+        "height": 41,
+        "depth": 58.5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Armchair Avant",
+      "color": ["#475165", "#A2A2A4"],
+      "selected_color": 0,
+      "price": 268.84,
+      "rate": 4,
+      "inCart": 0,
+      "catalog": "living-room",
+      "material": "polyester-fabric",
+      "type": "armchair",
+      "image": [
+        {
+          "1": "img/Avant.png",
+          "2": "img/Avant1.png",
+          "3": "img/Avant2.png",
+          "size": "img/Avant-size.png"
+        },
+        {
+          "1": "img/Avant-gray.png",
+          "2": "img/Avant-gray1.png",
+          "3": "img/Avant-gray2.png"
+        }
+      ],
+      "general_description": "Design inspired by the 60s with fine and sleek legs, very comfortable and sober.",
+      "feature": [
+        "Upholstery : 100% polyester",
+        "Structure : solid fir wood and chipboard",
+        "Suspension by elastic and crossed straps",
+        "Legs (to assemble yourself): solid beech, nitrocellulose varnish, height 31 cm"
+      ],
+      "dimensions": {
+        "width": 76,
+        "height": 76,
+        "depth": 66
+      },
+      "seat_dimensions": {
+        "width": 46.5,
+        "height": 45,
+        "depth": 47
+      }
+    },
+    {
+      "id": 6,
+      "name": "Side table Rosali",
+      "color": ["#474745"],
+      "selected_color": 0,
+      "price": 171.45,
+      "rate": 4.8,
+      "inCart": 0,
+      "catalog": "living-room",
+      "material": "metal",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Rosali.png",
+          "size": "img/Rosali-size.png"
+        }
+      ],
+      "general_description": "Side table Rosali with vintage spirit due to the leg part in reverse V in steel wire combined with two table tops, one in steel wire and one covered with reed stems.",
+      "feature": [
+        "2 table tops in black painted steel wire with epoxy finish (the lower plateau is covered with natural reed stems and finished with colorless nitrocellulose varnish)",
+        "Leg section in painted steel wire finished with black epoxy",
+        "Plastic floor caps"
+      ],
+      "dimensions": {
+        "diameter": 43,
+        "height": 51.4
+      }
+    },
+    {
+      "id": 7,
+      "name": "Swivel desk chair, Quilda",
+      "color": ["#E1B90F", "#95979B", "#333C46"],
+      "selected_color": 0,
+      "price": 224,
+      "rate": 4,
+      "inCart": 0,
+      "catalog": "dining-room",
+      "material": "polyester-fabric",
+      "type": "chair",
+      "image": [
+        {
+          "1": "img/Quilda.png",
+          "2": "img/Quilda1.png",
+          "size": "img/Quilda-size.png"
+        },
+        {
+          "1": "img/Quilda-gray.png",
+          "2": "img/Quilda-gray1.png"
+        },
+        {
+          "1": "img/Quilda-navy.png",
+          "2": "img/Quilda-navy1.png",
+          "3": "img/Quilda-navy2.png"
+        }
+      ],
+      "general_description": "Revolving office chair Quilda. Beautiful combination of fabric and natural wood upholstery, this Quilda office chair with vintage design is also very sturdy and comfortable.",
+      "feature": [
+        "Revolving seat, not adjustable in height, covered with fabric 100% polyester",
+        "Padding in polyurethane foam 30 kg/m³",
+        "Leg part in solid beech, oak shade, finished with nitrocellulose varnish"
+      ],
+      "dimensions": {
+        "width": 63.5,
+        "height": 82,
+        "depth": 58
+      }
+    },
+    {
+      "id": 8,
+      "name": "Garden table armchair, Irati",
+      "color": ["#D1CABE"],
+      "selected_color": 0,
+      "price": 593.54,
+      "rate": 4.6,
+      "inCart": 0,
+      "catalog": "outdoor",
+      "material": "polyester-fabric",
+      "type": "chair",
+      "image": [
+        {
+          "1": "img/Irati.png",
+          "2": "img/Irati1.png",
+          "3": "img/Irati2.png",
+          "4": "img/Irati3.png",
+          "size": "img/Irati-size.png"
+        }
+      ],
+      "general_description": "The garden armchair Irati is signed AMPM. The olefin cushions offer 2 advantages : durability and outdoor comfort, for this armchair with an elegant silhouette. A hand-woven backrest rests on a tubular base.",
+      "feature": [
+        "Upholstery of the cushion: olefin (100% polypropylene), designed for outdoor use",
+        "Structure : aluminum shell and galvanized steel leg section. The aluminum is more suitable for outdoor use than the traditional metal, it is light and strong, and it is naturally anti-corrosive without the need for chemical treatments",
+        "Handwoven in synthetic rope (polyester)"
+      ],
+      "dimensions": {
+        "width": 63,
+        "height": 80,
+        "depth": 74
+      },
+      "seat_dimensions": {
+        "width": 60,
+        "height": 45,
+        "depth": 49
+      }
+    },
+    {
+      "id": 9,
+      "name": "Armchair Dilma",
+      "color": ["#ACA59A"],
+      "selected_color": 0,
+      "price": 602.74,
+      "rate": 4,
+      "inCart": 0,
+      "catalog": "living-room",
+      "material": "linen",
+      "type": "chair",
+      "image": [
+        {
+          "1": "img/Dilma.png",
+          "2": "img/Dilma1.png",
+          "3": "img/Dilma2.png",
+          "size": "img/Dilma-size.png"
+        },
+        {
+          "1": "img/Dilma-black.png",
+          "2": "img/Dilma-black1.png",
+          "3": "img/Dilma-black2.png"
+        },
+        {
+          "1": "img/Dilma-khaki.png",
+          "2": "img/Dilma-khaki1.png",
+          "3": "img/Dilma-khaki2.png"
+        }
+      ],
+      "general_description": "Armchair Dilma is characterized by the simplicity of its structure in solid FSC® oak. The organic lines, sculpted armrests and polished corners evoke the softness of Scandinavian armchairs from the 1950s. The right angle of the backrest and the comfortable viscose cushions make this a timeless armchair. Dilma, an iconic armchair from AMPM.",
+      "feature": [
+        "Upholstery in 100% linen",
+        "Solid oak® frame with nitrocellulose finish",
+        "Seat in plywood with layer of oak"
+      ],
+      "dimensions": {
+        "width": 68.5,
+        "height": 75,
+        "depth": 68.8
+      },
+      "seat_dimensions": {
+        "width": 59,
+        "height": 40,
+        "depth": 48.5
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bedside table with 1 drawer Janik",
+      "color": ["#F5F8F7", "#98AFA0", "#7A4A3A"],
+      "selected_color": 0,
+      "price": 761.83,
+      "rate": 4.7,
+      "inCart": 0,
+      "catalog": "living-room",
+      "material": "wood",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Janik.png",
+          "2": "img/Janik1.png",
+          "size": "img/Janik-size.png"
+        },
+        {
+          "1": "img/Janik-green.png",
+          "2": "img/Janik-green1.png"
+        },
+        {
+          "1": "img/Janik-terracotta.png",
+          "2": "img/Janik-terracotta.png"
+        }
+      ],
+      "general_description": "Scandinavian style, very practical thanks to the drawer.",
+      "feature": [
+        "Chest in lacquered MDF finished with NC",
+        "Bicolor legs in solid pine wood finished with NC"
+      ],
+      "dimensions": {
+        "width": 40,
+        "height": 30,
+        "depth": 59.4
+      }
+    },
+    {
+      "id": 11,
+      "name": "Bedside table, HIBA",
+      "color": ["#3E3C3B"],
+      "selected_color": 0,
+      "price": 128,
+      "rate": 4,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "wood",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/HIBA.png",
+          "2": "img/HIBA1.png",
+          "size": "img/HIBA-size.png"
+        }
+      ],
+      "general_description": "Nightstand Hiba. Industrial spirit, the Hiba bedside table is both practical and trendy. Can be combined with other furniture from the Hiba range.",
+      "feature": [
+        "Brossed solid pine wood, finished with nitrocellulose varnish",
+        "Leg part in lacquered steel black epoxy"
+      ],
+      "dimensions": {
+        "width": 40,
+        "height": 50,
+        "depth": 40
+      }
+    },
+    {
+      "id": 12,
+      "name": "Bedside table, Lodge",
+      "color": ["#96654D"],
+      "selected_color": 0,
+      "price": 321.48,
+      "rate": 5,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "wood",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Lodge.png",
+          "2": "img/Lodge1.png",
+          "3": "img/Lodge2.png",
+          "size": "img/Lodge-size.png"
+        }
+      ],
+      "general_description": "The 2-drawer Lodge bedside table offers a vision of elegance with a vintage spirit inspired by the 50s, which is very fashionable in its decoration. The striped drawer fronts and metal legs here evoke the inventive and creative talent of the designers of the time.",
+      "feature": [
+        "In oak and MDF with oak veneer and finished with nitrocellulose varnish",
+        "Striped drawer fronts",
+        "2 slanted drawers at the top for easy opening",
+        "Leg part in metal with epoxy finish",
+        "Supplied pre-assembled"
+      ],
+      "dimensions": {
+        "width": 44.4,
+        "height": 53,
+        "depth": 37
+      }
+    },
+    {
+      "id": 13,
+      "name": "Night table Jimi",
+      "color": ["#EBEBEB", "#C1BFBB", "#346A89", "#A1B9B1"],
+      "selected_color": 0,
+      "price": 149.45,
+      "rate": 4.6,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "wood",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Night-table-Jimi.png",
+          "2": "img/Night-table-Jimi1.png",
+          "size": "img/Night-table-Jimi-size.png"
+        },
+        {
+          "1": "img/Night-table-Jimi-gray.png",
+          "2": "img/Night-table-Jimi-gray1.png"
+        },
+        {
+          "1": "img/Night-table-Jimi-blue.png",
+          "2": "img/Night-table-Jimi-blue1.png"
+        },
+        {
+          "1": "img/Night-table-Jimi-green.png",
+          "2": "img/Night-table-Jimi-green1.png"
+        }
+      ],
+      "general_description": "Bedside table Jimi, 1 drawer. Scandinavian inspiration for an original and unique touch, very nice for everyday use.",
+      "feature": [
+        "1 storage drawer",
+        "Lacquered MDF",
+        "Solid pine wood legs",
+        "Nitrocellulose finish"
+      ],
+      "dimensions": {
+        "width": 44.4,
+        "height": 53,
+        "depth": 37
+      }
+    },
+    {
+      "id": 14,
+      "name": "Wall bedside table, Jimi",
+      "color": ["#514F4B"],
+      "selected_color": 0,
+      "price": 148.34,
+      "rate": 4.5,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "metal",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Bedside-table-Jimi.png",
+          "2": "img/Bedside-table-Jimi1.png",
+          "size": "img/Bedside-table-Jimi-size.png"
+        }
+      ],
+      "general_description": "Wood/metal contrast with a clean design for a contemporary style.",
+      "feature": [
+        "Structure in lacquered metal, finished with epoxy",
+        "Drawer in MDF with oak layer and finished with NC",
+        "varnish, melamine bottom"
+      ],
+      "dimensions": {
+        "width": 38,
+        "height": 25,
+        "depth": 30
+      }
+    },
+    {
+      "id": 15,
+      "name": "Bedside table Volga",
+      "color": ["#DCAE7B"],
+      "selected_color": 0,
+      "price": 160,
+      "rate": 4.5,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "wood",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Bedside-table-Volga.png",
+          "2": "img/Bedside-table-Volga1.png",
+          "3": "img/Bedside-table-Volga2.png",
+          "size": "img/Bedside-table-Volga-size.png"
+        }
+      ],
+      "general_description": "Bedside table Volga with straight and clean lines. Nice combination of wood and steel. A must in every room.",
+      "feature": [
+        "1 drawer",
+        "Box in MDF with oak veneer finished with NC varnish",
+        "Leg section and handle in metal and epoxy"
+      ],
+      "dimensions": {
+        "width": 43,
+        "height": 52,
+        "depth": 30
+      }
+    },
+    {
+      "id": 16,
+      "name": "Bedside table, Buisseau",
+      "color": ["#DEC1A4"],
+      "selected_color": 0,
+      "price": 182.19,
+      "rate": 4.1,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "wood",
+      "type": "side-table",
+      "image": [
+        {
+          "1": "img/Buisseau.png",
+          "size": "img/Buisseau-size.png"
+        }
+      ],
+      "general_description": "Bedside table Buisseau. Its retro-trendy spirit and organic curves will seduce you. Crafted in oak and rattan stems, the bedside table with double tabletop provides a chic natural touch in the room!",
+      "feature": [
+        "Solid oak leg with a nitrocellulose varnish finish",
+        "Top table top in MDF with a layer of oak and a nitrocellulose finish",
+        "Lower table top in rattan stems and solid oak"
+      ],
+      "dimensions": {
+        "width": 50,
+        "height": 41.7,
+        "depth": 41
+      }
+    },
+    {
+      "id": 17,
+      "name": "Bench in bouclette, Bola",
+      "color": ["#F0ECE5"],
+      "selected_color": 0,
+      "price": 473.26,
+      "rate": 2,
+      "inCart": 0,
+      "catalog": "bedroom",
+      "material": "wood",
+      "type": "bench",
+      "image": [
+        {
+          "1": "img/Bola.png",
+          "2": "img/Bola1.png",
+          "size": "img/Bola-size.png"
+        }
+      ],
+      "general_description": "Made from a warm and comfortable bouclette fabric, with a practical drawer for your personal belongings, Bola is the entrance sofa. An exclusive design La Redoute Intérieurs.",
+      "feature": [
+        "Structure in solid fir wood and chipboard",
+        "Legs in solid beech",
+        "Plywood drawer with oak veneer",
+        "Knob handle in black metal with epoxy finish",
+        "Seat and legs upholstered in 100% polyester terry"
+      ],
+      "dimensions": {
+        "width": 120,
+        "height": 43,
+        "depth": 40.5
+      }
+    },
+    {
+      "id": 18,
+      "name": "Set of 2 bar stools, Nordie",
+      "color": ["#787876"],
+      "selected_color": 0,
+      "price": 193.24,
+      "rate": 4.5,
+      "inCart": 0,
+      "catalog": "dining-room",
+      "material": "polyester-fabric",
+      "type": "chair",
+      "image": [
+        {
+          "1": "img/Nordie.png",
+          "2": "img/Nordie1.png",
+          "size": "img/Nordie-size.png"
+        }
+      ],
+      "general_description": "Between kitchen and dining room, the 2 Nordie high chairs offer perfect design and comfort around the table or island, H105 cm.",
+      "feature": [
+        "Leg section and footrest in tubular steel, decor in oak",
+        "Seat in veneer wood filled with polyurethane foam",
+        "Upholstery in 100% mélange gray polyester"
+      ],
+      "dimensions": {
+        "width": 51,
+        "height": 98,
+        "depth": 45
+      }
+    },
+    {
+      "id": 19,
+      "name": "Table 4 - 6 people, Adza",
+      "color": ["#DEBB8E"],
+      "selected_color": 0,
+      "price": 330.84,
+      "rate": 4.5,
+      "inCart": 0,
+      "catalog": "dining-room",
+      "material": "wood",
+      "type": "table",
+      "image": [
+        {
+          "1": "img/Adza.png",
+          "2": "img/Adza1.png",
+          "size": "img/Adza-size.png"
+        }
+      ],
+      "feature": [
+        "Inverted 'V' legs in steel",
+        "Made in Europe",
+        "Table top in solid oak, FSC (FSC-N003174) certificate, bevelled, finished with clear acrylic varnish",
+        "Legs in black lacquered steel with epoxy finish",
+        "Felt round non-slip floor caps)"
+      ],
+      "general_description": "An industrial spirit, table Adza with a new trend, a mix of oak and black metal.",
+      "dimensions": {
+        "width": 51,
+        "height": 98,
+        "depth": 45
+      }
+    },
+    {
+      "id": 20,
+      "name": "Round table 4-6 people, Larsen",
+      "color": ["#B79A94"],
+      "selected_color": 0,
+      "price": 881,
+      "rate": 4,
+      "inCart": 0,
+      "catalog": "dining-room",
+      "material": "wood",
+      "type": "table",
+      "image": [
+        {
+          "1": "img/Larsen.png",
+          "2": "img/Larsen1.png",
+          "size": "img/Larsen-size.png"
+        }
+      ],
+      "general_description": "The charm of vintage, the elegance of walnut and refined finishes. The Larsen table combines design and functionality and defines the decor. A design La Redoute Intérieurs.",
+      "feature": [
+        "Leg part in solid walnut and beveled table top in MDF veneered in walnut (solid bevelled edge), finish with nitrocellulose varnish",
+        "Plastic caps and adjustable"
+      ],
+      "dimensions": {
+        "diameter": 130,
+        "height": 75
+      }
+    },
+    {
+      "id": 21,
+      "name": "Larsen chair",
+      "color": ["#6F4F41"],
+      "selected_color": 0,
+      "price": 557.31,
+      "rate": 4.8,
+      "inCart": 0,
+      "catalog": "dining-room",
+      "material": "wood",
+      "type": "chair",
+      "image": [
+        {
+          "1": "img/Larsen-chair.png",
+          "2": "img/Larsen-chair1.png",
+          "size": "img/Larsen-chair-size.png"
+        }
+      ],
+      "general_description": "the elegance of walnut and refined finishes. The Larsen chairs combine design and character, extremely deco. The leather seats offer an extremely high level of comfort. A design La Redoute Intérieurs.",
+      "feature": [
+        "Legs and backrest in solid walnut, finished with nitrocellulose varnish",
+        "Seat in plywood, filled with polyurethane foam (30kg/m3) Upholstered in corrected grain cowhide, Aniline finish (chrome tanned)",
+        "Sold per set of 2"
+      ],
+      "dimensions": {
+        "width": 47,
+        "height": 80.5,
+        "depth": 51.5
+      },
+      "seat_dimensions": {
+        "width": 46.5,
+        "height": 47,
+        "depth": 42
+      }
+    }
+  ]
+}
